@@ -1,0 +1,6 @@
+name: Full-Metal-Jacket
+version: 0.0.0.0
+main: pkg.fmj.main.entry
+description: A plugin that will make the players hate your server.
+author: StresseR
+api-version: '1.20'
